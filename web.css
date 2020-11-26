@@ -1,0 +1,126 @@
+
+.meList li  {
+	display:inline;
+	padding:0px 23px 
+
+}
+.meList li a{
+	color:MediumVioletRed;
+	text-transform: capitalize;
+	
+}
+.meList{
+	text-align: center;
+}
+
+.menu{ 
+ top:18px;
+ left: 300px;
+
+ margin:auto;
+
+ position:absolute; 
+
+ }
+ .logo{
+ 	position:absolute;
+ }
+ .container{
+ 	position: relative;
+ 	height: 100px;
+ }
+
+ .one{
+ 	height:200px;
+ 	width: 200px;
+ 	padding-right: 20px;
+
+ 	 
+ }
+ .para{
+ 	color:deepPink;
+ 	
+ }
+ .abc{
+ 	position:relative;
+ }
+ .pic{
+ 	position:absolute;
+
+ }
+ .text{
+ 	font-size: 13px; 
+ 	text-align: center;
+ 	background-color:rgba(255,182,193,0.5);
+ 	margin:50px  300px; 
+ 	padding: 25px ;
+ 	box-shadow:2px 3px 10px hotPink;
+ }
+ h1,h5,h2 {
+color:fuchsia;
+ }
+ .gradient{
+ 	background :linear-gradient(Pink,lightPink,hotPink);
+ 	height:1000px;
+ }
+ h5{
+ 	font-size: 20px;
+ }
+ .text h1 {
+ 	color:mediumvioletred;
+ 	font-size: 17px;
+ }
+ .back{
+ 	background:url(Clothing-Backgrounds-002.jpg); 
+ 	/*;background-color:rgb(255,182,193)*/
+ }
+ .hobbies{
+ 	background:url(hobbies.jpg);
+ 	background-size:100%  100%;
+ 	width: 300px;
+ 	height:250px;
+ 	position: absolute;
+ 	left:320px;
+ /*	box-shadow: 1px  2px  3px;*/
+ 	transition:0.5s ease all; 
+ 	
+
+
+ }
+  .normal-wear{
+ 	background:url(normal.png);
+ 	background-size:100%  100%;
+ 	width:300px;
+ 	height: 250px;
+ 	position:absolute;
+ 	left:735px;
+ 	/*box-shadow: 2px  3px  4px;*/
+ 	margin-bottom:10px;
+ 	transition:0.5s ease all; 
+
+
+ }
+ .hobbies:hover ,.normal-wear:hover{
+ 	box-shadow: 3px  4px  5px;
+
+ }
+
+
+ .height{
+ 	height:300;
+
+ }
+ .height a {
+ 	color:black;
+ }
+ #ifcard{
+ 	display: none;
+ }
+ .visacard{
+height: 20px;
+width:30px;
+ }
+ .mastercard{
+height: 20px;
+width:30px;
+ }
