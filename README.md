@@ -12,17 +12,12 @@
 <title>Fashion Girls </title>
 </head>
 <body class="back">
-
-<section id="home">
-	<div class="container">
-		<div class="logo">
-	<h1>Fashion Girls</h1>
-	<h5>Where Every Girl Is A Fashionista</h5>
-
-		</div>
-
-		<div class="menu">
-			<ul class="meList">
-				
-
+	<div class="menu">
+		<ul class="meList">
 			<LI><a href="index .html">Home</a></LI>
+		</ul>
+	</div>
+</body>
+</html>
+
+
